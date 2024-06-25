@@ -58,7 +58,7 @@ RECIPIENT_ADDRESS = your recipient address
 >
 > To save: Ctrl+X+Y Enter
 > 
-![image](https://github.com/0xmoei/sonic-tx/assets/90371338/6d02cfb8-f7bb-4399-9999-56232071e8ab)
+
 
 
 ### 4- Run:
